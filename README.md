@@ -6,7 +6,7 @@ Objetivo
 
 Desenvolver uma solução analítica baseada em séries temporais para monitorar e prever o consumo de energia elétrica, com foco na redução de desperdícios e aumento da eficiência energética.
 
-📁 Estrutura do Projeto
+Estrutura do Projeto
 projeto-aplicado/
 │
 ├── data/
@@ -59,6 +59,9 @@ A série não é estacionária
 Integrantes
 
 Felipe Graciano de Moura Ramos
+
 João Pedro Rocha Abbade
+
 Marcos Davi Duarte Abibe
+
 Thais Jorge Azevedo
