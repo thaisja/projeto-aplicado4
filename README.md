@@ -29,17 +29,20 @@ A base utilizada contém dados reais de consumo de energia elétrica no Brasil, 
 
 Operador Nacional do Sistema Elétrico (ONS)
 Câmara de Comercialização de Energia Elétrica (CCEE)
-🔍 Etapa 2 — Análise Exploratória
+
+Etapa 2 — Análise Exploratória
 
 Nesta etapa foram realizadas as seguintes análises:
 
 Preparação e tratamento dos dados
+
 Análise exploratória da série temporal
 Cálculo de estatísticas descritivas
 Análise de autocorrelação (ACF e PACF)
 Decomposição da série temporal
 
 Tecnologias Utilizadas
+
 Python
 Pandas
 Matplotlib
@@ -47,12 +50,14 @@ Statsmodels
 
 
 Principais Insights
+
 A série apresenta forte sazonalidade diária
 Existe tendência não linear ao longo do tempo
 O consumo energético possui alta variabilidade
 A série não é estacionária
 
 Integrantes
+
 Felipe Graciano de Moura Ramos
 João Pedro Rocha Abbade
 Marcos Davi Duarte Abibe
